@@ -1,0 +1,7 @@
+{
+    "require": {
+        "defuse/php-encryption": "^2.3",
+        "paragonie/constant_time_encoding": "^2.6",
+        "unsplash/unsplash": "^3.2"
+    }
+}
